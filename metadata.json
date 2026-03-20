@@ -1,0 +1,5 @@
+{
+  "name": "Triage Agent",
+  "description": "An AI agent to triage Gmail, Calendar, and Tasks with MCP support.",
+  "requestFramePermissions": []
+}
